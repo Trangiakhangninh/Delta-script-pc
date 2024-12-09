@@ -1,1 +1,4 @@
+loadstring game 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/Main.lua"))()
+https://www.mediafire.com/file/yzjlk1xh273n5bx/Script-h-main.zip/file
 https://www.mediafire.com/file/yzjlk1xh273n5bx/Script-h-main.zip/file
