@@ -1,0 +1,9 @@
+loadstring game 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/TrauHub/main/TrauRobloxV2"))()
+getgenv().Team = "Marines" -- Pirates/Marines 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/verudous/Xero-Hub/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x2-Neptune/RadonHub/refs/heads/main/Script.lua"))()
+https://raw.githubusercontent.com/x2-Neptune/RadonHub/refs/heads/main/Script.lua
+https://raw.githubusercontent.com/verudous/Xero-Hub/main/main.lua
